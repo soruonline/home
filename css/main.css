@@ -9,6 +9,19 @@ body {
     -webkit-overflow-scrolling: touch;
 }
 
+#divider01 {
+	background: url("https://googledrive.com/host/0Byu5OnURO8f8TlNyV0tjNHB2XzQ/assets/img/divider.jpg") no-repeat center center;
+	background-size: cover;
+	min-height: 400px;
+	padding-top: 120px;
+}
+
+#divider02 {
+	background-color: #06979E;
+	height: 150px;
+	padding-top: 55px;
+}
+
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Oswald', sans-serif;
